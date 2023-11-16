@@ -50,6 +50,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Program :
 NAME: ASIN VARDHINI R REFERENCE NUMBER:212222100007
 
+```
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
@@ -73,7 +74,7 @@ print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
-
+```
 
 # Output : 
 ![image](https://github.com/AsinVardhini/Mean-and-Variance/assets/119417735/255c0ea6-532c-48f6-a755-b4fd12ce598c)
